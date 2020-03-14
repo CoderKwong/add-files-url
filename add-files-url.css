@@ -1,0 +1,80 @@
+#aef-in-upload-ui {
+	margin: 1.2em auto;
+	text-align: center;
+}
+
+#aef-in-upload-ui .row1 {
+	margin-bottom: .5em;
+}
+
+#aef-media-new-panel {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	z-index: 999;
+	background-color: rgb(241, 241, 241);
+	text-align: left;
+	box-sizing: border-box;
+	padding: 2em;
+}
+
+.media-modal-content #aef-media-new-panel {
+	background-color: white;
+}
+
+#aef-urls-label {
+  display: block;
+  margin-bottom: 1em;
+}
+
+#aef-urls {
+	width: 100%;
+}
+
+#aef-error {
+	color: red;
+}
+
+#aef-properties {
+	margin-top: 1.5em;
+}
+
+#aef-properties label {
+	margin-right: 1em;
+}
+
+#aef-width {
+	margin-right: 2.5em;
+	width: 6em;
+}
+
+#aef-height {
+	margin-right: 7em;
+	width: 6em;
+}
+
+#aef-type {
+	width: 17em;
+}
+
+#aef-buttons-row {
+	margin-top: 1.5em;
+	text-align: right;
+}
+
+#aef-buttons-row .spinner {
+	margin-top: 4px;
+	margin-right: 2em;
+	float: none;
+	visibility: hidden;
+}
+
+#aef-clear {
+	margin-right: 2.3em;
+}
+
+#aef-add {
+	margin-right: 1.5em;
+}
